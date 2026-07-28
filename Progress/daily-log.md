@@ -3,12 +3,12 @@
 ## July 27, 2026
 
 ✅ Completed:
-- Computer Networks: Read 3 pages
+- Computer Networks: Read 7 pages
 
 📖 Pages Progress:
 
 CN:
-3 / 57
+7 / 57
 
 OS:
 0 / 58
@@ -21,4 +21,4 @@ OOPS:
 
 
 🔥 Current Streak:
-1 Day
+2 Day
