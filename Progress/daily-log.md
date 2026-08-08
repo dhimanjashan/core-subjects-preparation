@@ -3,12 +3,12 @@
 ## August 07, 2026
 
 ✅ Completed:
-- Computer Networks: Read 25 pages
+- Computer Networks: Read 27 pages
 
 📖 Pages Progress:
 
 CN:
-25 / 57
+27 / 57
 
 OS:
 0 / 58
@@ -19,6 +19,9 @@ DBMS:
 OOPS:
 0 / 35
 
+COA:
+0 / 66
+
 
 🔥 Current Streak:
-12  Day
+13  Day
