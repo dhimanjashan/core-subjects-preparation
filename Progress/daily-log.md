@@ -1,14 +1,14 @@
 # 📚 Core Subjects Daily Progress
 
-## August 19, 2026
+## August 20, 2026
 
 ✅ Completed:
-- Computer Networks: Read 36 pages
+- Computer Networks: Read 37 pages
 
 📖 Pages Progress:
 
 CN:
-36 / 57
+37 / 57
 
 OS:
 0 / 58
@@ -24,4 +24,4 @@ COA:
 
 
 🔥 Current Streak:
-22 Day
+23 Day
