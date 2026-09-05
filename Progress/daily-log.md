@@ -24,5 +24,5 @@ COA:
 
 
 🔥 Current Streak:
-37 Day
+38 Day
  
