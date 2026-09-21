@@ -1,10 +1,10 @@
 # 📚 Core Subjects Daily Progress
 
-## September 20, 2026
+## September 21, 2026
 
 ✅ Completed:
 - Computer Networks: Read 57 pages
-- OOPS: Read 3 pages
+- OOPS: Read 4 pages
 
 📖 Pages Progress:
 
@@ -12,7 +12,7 @@ CN:
 57 / 57
 
 OOPS:
-3 / 35
+4 / 35
 
 OS:
 0 / 58
@@ -25,5 +25,5 @@ COA:
 
 
 🔥 Current Streak:
-41 Day
+42 Day
  
