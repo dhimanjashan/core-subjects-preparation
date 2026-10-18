@@ -5,7 +5,7 @@
 ✅ Completed:
 - Computer Networks: Read 57 pages
 - OOPS: Read 35 pages
-- COA: watched 64 videos
+- COA: watched 66 videos
 
 📖 Pages Progress:
 
@@ -16,7 +16,7 @@ OOPS:
 35 / 35
 
 COA:
-64 / 66
+66 / 66
 
 DBMS:
 0 / 46
