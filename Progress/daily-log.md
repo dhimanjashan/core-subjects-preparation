@@ -1,12 +1,12 @@
 # 📚 Core Subjects Daily Progress
 
-## November 3, 2026
+## November 4, 2026
 
 ✅ Completed:
 - Computer Networks: Read 57 pages
 - OOPS: Read 35 pages
 - COA: watched 66 videos
-- DBMS: Read 12 pages
+- DBMS: Read 14 pages
 
 📖 Pages Progress:
 
@@ -20,12 +20,12 @@ COA:
 66 / 66
 
 DBMS:
-12 / 46
+14 / 46
 
 OS:
 0 / 58
 
 
 🔥 Current Streak:
-69  Day
+70  Day
  
