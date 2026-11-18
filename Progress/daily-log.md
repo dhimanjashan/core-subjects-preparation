@@ -6,7 +6,7 @@
 - Computer Networks: Read 57 pages
 - OOPS: Read 35 pages
 - COA: watched 66 videos
-- DBMS: Read 23 pages
+- DBMS: Read 33 pages
 
 📖 Pages Progress:
 
@@ -20,7 +20,7 @@ COA:
 66 / 66
 
 DBMS:
-23 / 46
+33 / 46
 
 OS:
 0 / 58
